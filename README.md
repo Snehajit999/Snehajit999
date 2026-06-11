@@ -42,7 +42,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/sneho_senpai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sneho_senpai" height="30" width="40" /></a>
+<ahttps://www.instagram.com/elevate_xo_/>
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
