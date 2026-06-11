@@ -48,7 +48,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snehajit999&show_icons=true&locale=en&layout=compact" alt="snehajit999" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snehajit999&show_icons=true&locale=en" alt="snehajit999" /></p>
-## Hi there 👋
+Thanks to visiting my pf !👋
 
 <!--
 **Snehajit999/Snehajit999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
