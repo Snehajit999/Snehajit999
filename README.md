@@ -30,11 +30,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snehajit999" alt="snehajit999" /></a> </p>
 
-- 🔭 I’m currently working on **Digital AI**
+- 🔭 I’m currently working on **Blender**
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning **RUST**
 
-- 🤝 I’m looking for help with **AI**
+- 🤝 I’m looking for help with **Photoshop**
 
 - 📫 How to reach me **snehajit12345@gmail.com**
 
